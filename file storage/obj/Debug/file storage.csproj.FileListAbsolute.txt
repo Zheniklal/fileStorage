@@ -1,0 +1,30 @@
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\file storage.exe.config
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\file storage.exe
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\file storage.pdb
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.csproj.CopyComplete
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.exe
+C:\Users\Artem\Desktop\CSAN-lab-5-master\file storage\file storage\obj\Debug\file storage.pdb
+D:\CSAN-http-file-server-master\file storage\bin\Debug\file storage.exe.config
+D:\CSAN-http-file-server-master\file storage\bin\Debug\file storage.exe
+D:\CSAN-http-file-server-master\file storage\bin\Debug\file storage.pdb
+D:\CSAN-http-file-server-master\file storage\bin\Debug\Newtonsoft.Json.dll
+D:\CSAN-http-file-server-master\file storage\bin\Debug\Newtonsoft.Json.xml
+D:\CSAN-http-file-server-master\file storage\obj\Debug\file storage.csprojAssemblyReference.cache
+D:\CSAN-http-file-server-master\file storage\obj\Debug\file storage.csproj.CoreCompileInputs.cache
+D:\CSAN-http-file-server-master\file storage\obj\Debug\file storage.csproj.CopyComplete
+D:\CSAN-http-file-server-master\file storage\obj\Debug\file storage.exe
+D:\CSAN-http-file-server-master\file storage\obj\Debug\file storage.pdb
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\bin\Debug\file storage.exe.config
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\bin\Debug\file storage.exe
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\bin\Debug\file storage.pdb
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\obj\Debug\file storage.csprojAssemblyReference.cache
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\obj\Debug\file storage.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\obj\Debug\file storage.csproj.CopyComplete
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\obj\Debug\file storage.exe
+C:\Users\Владелец\source\repos\CSAN-http-file-server-master\file storage\obj\Debug\file storage.pdb
